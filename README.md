@@ -2,16 +2,16 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
-# 콘텐츠 제공 문서
+# 기여자 문서
 
 Adobe는 문서 팀의 외부 직원뿐만 아니라 커뮤니티로부터의 기여도 환영합니다.
 
 ## Adobe 오픈소스 행동 수칙
 
-이 프로젝트에서는 [Adobe 오픈소스 행동 수칙](code-of-conduct.md) 또는 [.NET Foundation 행동 수칙](https://dotnetfoundation.org/code-of-conduct)이 채택되었습니다. 자세한 내용은 [기여](contributing.md) 문서를 참조하십시오.
+이 프로젝트에서는 [Adobe OOCT(Open Source Code of Conduct)](code-of-conduct.md) 또는 [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct)가 채택되었습니다. 자세한 내용은 [기여](contributing.md) 문서를 참조하십시오.
 
 ## Adobe 콘텐츠에 기여하는 방법
 
@@ -29,7 +29,7 @@ Adobe는 문서 팀의 외부 직원뿐만 아니라 커뮤니티로부터의 �
 1. &quot;이 콘텐츠가 도움이 되었습니까?&quot;에서 브라우저 창의 아래쪽에 표시되는 배너 클릭 **자세한 피드백 옵션**.
 1. 클릭 **편집 제안** 및 GitHub UI의 변경 사항과 함께 가져오기 요청(PR)을 제출합니다.
 
-   자세한 내용은 일반 [Adobe 문서 기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko-KR)를 참조하십시오.
+   자세한 내용은 일반 [Adobe 문서 기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 이 저장소의 설명서 및 코드 샘플에 대해 사용자가 제출하는 부분 수정 또는 설명은 Adobe 사용 약관의 적용을 받습니다.
 
@@ -41,9 +41,9 @@ Adobe 커뮤니티에 소속되어 있고 새 주제를 만들거나 주요 변�
 
 ### 도구
 
-커뮤니티 콘텐츠 작가는 기본 편집에 GitHub UI를 사용하거나 저장소를 포크하여 주요 콘텐츠를 제공할 수 있습니다.
+커뮤니티 기여자는 기본 편집에 GitHub UI를 사용하거나 저장소를 포크하여 주요 콘텐츠를 제공할 수 있습니다.
 
-자세한 내용은 [Adobe 문서 콘텐츠 작가 가이드](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
+자세한 내용은 [Adobe 문서 기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하십시오.
 
 ## 내부 기여자
 
@@ -54,11 +54,11 @@ Adobe Experience Cloud 솔루션에 대한 제품 팀의 테크니컬 라이터,
 이 저장소의 모든 문서는 GitHub 버전의 Markdown을 사용합니다. Markdown에 익숙하지 않은 경우 다음을 참조하십시오.
 
 * [마크다운 기본 사항](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [인쇄 가능 Markdown 치트시트](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [인쇄 가능한 마크다운 치트시트 ](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## 레이블
 
-공개 저장소에서는 가져오기 요청 워크플로를 관리하고 가져오기 요청에 무슨 일이 일어나고 있는지 알려주기 위해 가져오기 요청에 자동화된 레이블이 할당됩니다.
+공개 저장소에서는 가져오기 요청 워크플로를 관리하고 가져오기 요청에 무슨 일이 일어나고 있는지 알려 주기 위해 가져오기 요청에 자동화된 레이블이 할당됩니다.
 
-* **작성자에게 보낸 변경 사항**: 보류 중인 가져오기 요청에 대한 알림을 작성자가 받았습니다.
-* **병합할 준비**: 가져오기 요청 검토 팀에서 검토할 준비가 되었습니다.
+* **작성자에게 보낸 변경 사항**: 작성자에게 보류 중인 가져오기 요청에 대한 알림이 전송되었습니다.
+* **병합 준비 완료**: 가져오기 요청 검토 팀에서 검토할 준비가 되었습니다.
